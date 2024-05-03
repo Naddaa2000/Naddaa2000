@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Naddaa2000
 - 👀 I’m interested in collaburationg in integration and backend projects
-- 🌱 I’m currently learning NestJs and ReactJs
+- 🌱 I’m currently learning NestJs, ReactJs and blockchain
 - 💞️ I’m looking to collaborate on backend and integration related projects
 - 📫 You can reach me through my email account: mumtazmuhammad490@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: her/Her's
 - ⚡ Fun fact: ... 
 
 <!---
