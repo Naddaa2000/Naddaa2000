@@ -37,7 +37,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-
+![supabase](https://img.shields.io/badge/supabase-999999?style=for-the-badge&logo=supabase)
+![postgresql](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ---
 
 ### 🛠️ Dev & Tools
